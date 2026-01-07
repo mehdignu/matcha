@@ -6,6 +6,9 @@
 *.jpeg
 *.gif
 
+# Local Config
+config/
+
 # Local outputs
 data/
 dist/
